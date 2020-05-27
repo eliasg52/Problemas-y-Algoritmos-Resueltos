@@ -2,7 +2,7 @@
 
  1 3 5 ... 99*/
 
-//SIN LOGICA
+//SIN LOGICA 
 
 for (let i = 1; i <= 100; i += 2) {
 	console.log(i);
